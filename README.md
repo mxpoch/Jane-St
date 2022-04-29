@@ -1,2 +1,2 @@
 # Jane St
- Attempts at solving Jane st. puzzels
+My attempts at solving Jane St. Puzzles
